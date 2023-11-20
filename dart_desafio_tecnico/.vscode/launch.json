@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Dart: Run all Tests",
+      "type": "dart",
+      "request": "launch",
+      "program": "./test/"
+    },
+    {
+      "name": "Dart",
+      "type": "dart",
+      "request": "launch",
+      "args": [],
+      "program": "./bin/dart_desafio_tecnico.dart"
+    }
+  ]
+}
